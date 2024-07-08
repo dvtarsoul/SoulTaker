@@ -1,6 +1,6 @@
 ## 🧱 **SoulTaker (l7 method)**
 
-New L7 methodfor flooding target with random user agents and headers through HTTP proxies (TLS method type)
+New L7 method for flooding target with random user agents and headers through HTTP proxies (TLS method type)
 
 ## 🚀 **How it works**
 
